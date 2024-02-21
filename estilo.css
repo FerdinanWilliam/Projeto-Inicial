@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color: rgb(228, 190, 223);
+    background-color: rgb(219, 0, 0);
     font-family: "Audiowide", sans-serif;
 }
 
@@ -36,13 +36,13 @@ p {
 }
 
 a:link {
-    color: blue;
+    color: rgb(56, 55, 55);
     background-color: transparent;
     text-decoration: none;
 }
 
 a:visited {
-    color: blueviolet;
+    color: rgb(250, 246, 37);
     background-color: transparent;
     text-decoration: none;
 }
